@@ -1,0 +1,5 @@
+total 8034
+-rw-r--r-- 1 ma.nikkalou.s.tan 1049089      30 Jun 10 10:49 date.txt
+-rw-r--r-- 1 ma.nikkalou.s.tan 1049089      92 Jun 10 10:43 git-config.txt
+-rw-r--r-- 1 ma.nikkalou.s.tan 1049089 8222370 Jun 10 10:43 openvpn-connect-2.5.0.100.msi
+-rw-r--r-- 1 ma.nikkalou.s.tan 1049089       0 Jun 10 11:09 sample.txt
